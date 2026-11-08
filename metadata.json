@@ -1,0 +1,6 @@
+{
+  "name": "Dynamic Programming Knapsack 3D",
+  "description": "Interactive 3D visualizer for the 0/1 Dynamic Programming Knapsack algorithm with procedural backpack physics, 3D animated DP matrix, step-by-step recurrence explanations, and light pastel aesthetics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
